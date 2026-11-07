@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local database
+teamflow.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Secrets and local settings
+.env
+.env.*
+
+# Editor and OS files
+.vscode/
+.DS_Store
